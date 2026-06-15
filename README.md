@@ -4,10 +4,10 @@ A small collection of JavaScript implementations and practice problems for commo
 
 ## Contents
 
-- `BST.js`, `StackLinkedList.js`, `QueueLinkedList.js` — example implementations at repository root.
-- `LinkedList/` — singly & doubly linked list implementations.
+- `LinkedList/` — singly and doubly linked list implementations.
 - `ProblemSolving/` — algorithmic practice problems with solutions.
-- `stackQueueTree/` — exercises and notes for stacks, queues, and trees.
+- `Sort&search/` — searching and sorting algorithm implementations.
+- `stackQueueTree/` — stack, queue, and binary search tree implementations.
 
 ## Features
 
@@ -25,8 +25,9 @@ node run_examples.js
 Or run an individual example:
 
 ```bash
-node StackLinkedList.js
-node QueueLinkedList.js
+node stackQueueTree/StackLinkedList.js
+node stackQueueTree/QueueLinkedList.js
+node Sort&search/binarySearch.js
 ```
 
 ## Contributing
